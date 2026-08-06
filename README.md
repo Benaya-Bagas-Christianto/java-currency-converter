@@ -121,8 +121,7 @@ Bebas digunakan, dimodifikasi, dan didistribusikan. ⭐ Jangan lupa berikan bint
 
 ---
 
-<div align="center">
-
-Dibuat dengan ❤️ dan ☕ oleh **[Benaya Bagas Christianto](https://github.com/Benaya-Bagas-Christianto)**
-
-</div>
+<p align="center">
+  Dibuat dan dirancang oleh <b>Benaya Bagas Christianto</b><br>
+  <i>Berdedikasi untuk menciptakan aplikasi desktop interaktif berbasis Java yang fungsional dan efisien.</i>
+</p>
