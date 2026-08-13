@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💱 Currency Converter
+#  Currency Converter
 
 **Aplikasi desktop Java bertema gelap yang elegan untuk konversi mata uang secara real-time.**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Tampilan (Preview)
+##  Tampilan (Preview)
 
 > *Mode gelap, kartu membulat, ikon vektor — semuanya dibuat dari nol menggunakan Java Swing.*
 
@@ -37,24 +37,24 @@
 
 ---
 
-## 🚀 Fitur Unggulan
+##  Fitur Unggulan
 
 | Fitur | Deskripsi |
 |---|---|
-| 🌐 **Kurs Real-Time** | Nilai tukar mata uang langsung dari Bank Sentral Eropa via Frankfurter API — **tanpa API key** |
-| 🎨 **UI Gelap Kustom** | Desain bertema gelap yang elegan, dibangun sepenuhnya dengan Java 2D Graphics (tanpa library UI eksternal) |
-| 🏳️ **30 Mata Uang Utama** | Mendukung berbagai mata uang global lengkap dengan bendera negaranya |
-| 📦 **Riwayat Offline** | Semua konversi otomatis disimpan di database lokal SQLite |
-| 🔢 **Format Angka Pintar** | Mengenali format penulisan angka Indonesia (`10.000,50`) maupun format US (`10,000.50`) |
-| 💱 **Tukar Cepat (Swap)** | Tukar posisi mata uang "Dari" dan "Ke" secara instan dengan satu klik |
-| 📋 **Salin ke Papan Klip** | Salin hasil konversi dengan mudah, dilengkapi animasi notifikasi "Copied!" |
-| ⏎ **Enter untuk Konversi** | Tidak perlu repot klik tombol — cukup tekan `Enter` untuk melakukan konversi |
-| 🗑️ **Hapus Riwayat** | Bersihkan riwayat konversimu dengan dialog konfirmasi khusus bertema gelap |
-| ⏳ **Animasi Loading** | Indikator `Converting...` yang bergerak saat mengambil data dari internet |
+|  **Kurs Real-Time** | Nilai tukar mata uang langsung dari Bank Sentral Eropa via Frankfurter API — **tanpa API key** |
+|  **UI Gelap Kustom** | Desain bertema gelap yang elegan, dibangun sepenuhnya dengan Java 2D Graphics (tanpa library UI eksternal) |
+|  **30 Mata Uang Utama** | Mendukung berbagai mata uang global lengkap dengan bendera negaranya |
+|  **Riwayat Offline** | Semua konversi otomatis disimpan di database lokal SQLite |
+|  **Format Angka Pintar** | Mengenali format penulisan angka Indonesia (`10.000,50`) maupun format US (`10,000.50`) |
+|  **Tukar Cepat (Swap)** | Tukar posisi mata uang "Dari" dan "Ke" secara instan dengan satu klik |
+|  **Salin ke Papan Klip** | Salin hasil konversi dengan mudah, dilengkapi animasi notifikasi "Copied!" |
+|  **Enter untuk Konversi** | Tidak perlu repot klik tombol — cukup tekan `Enter` untuk melakukan konversi |
+|  **Hapus Riwayat** | Bersihkan riwayat konversimu dengan dialog konfirmasi khusus bertema gelap |
+|  **Animasi Loading** | Indikator `Converting...` yang bergerak saat mengambil data dari internet |
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - **Bahasa**: Java (Swing / AWT)
 - **Build Tool**: Apache Maven
@@ -64,7 +64,7 @@
 
 ---
 
-## ⚡ Cara Menjalankan
+##  Cara Menjalankan
 
 ### Persyaratan Sistem
 - Java JDK **8 atau lebih baru**
@@ -83,11 +83,11 @@ cd java-currency-converter
 mvn clean compile exec:java -Dexec.mainClass="com.mycompany.currencyconverter.Main"
 ```
 
-> ✅ Selesai! Tidak perlu setting API key atau konfigurasi tambahan. Tinggal clone dan jalankan.
+>  Selesai! Tidak perlu setting API key atau konfigurasi tambahan. Tinggal clone dan jalankan.
 
 ---
 
-## 💱 Mata Uang yang Didukung
+##  Mata Uang yang Didukung
 
 `AUD` `BRL` `CAD` `CHF` `CNY` `CZK` `DKK` `EUR` `GBP` `HKD`
 `HUF` `IDR` `ILS` `INR` `ISK` `JPY` `KRW` `MXN` `MYR` `NOK`
@@ -95,7 +95,7 @@ mvn clean compile exec:java -Dexec.mainClass="com.mycompany.currencyconverter.Ma
 
 ---
 
-## 📁 Struktur Project
+##  Struktur Project
 
 ```text
 CurrencyConverter/
@@ -114,10 +114,10 @@ CurrencyConverter/
 
 ---
 
-## 📄 Lisensi
+##  Lisensi
 
 Project ini bersifat open-source di bawah [Lisensi MIT](LICENSE).  
-Bebas digunakan, dimodifikasi, dan didistribusikan. ⭐ Jangan lupa berikan bintang (star) jika kamu menyukai project ini!
+Bebas digunakan, dimodifikasi, dan didistribusikan.  Jangan lupa berikan bintang (star) jika kamu menyukai project ini!
 
 ---
 
